@@ -12,13 +12,16 @@ body {
   background-color: #BCE0FD;
 }
 hr{
-      border-color: black;
+      hr{
+      border-color: #FEC93F;
+      display: flex;
+      align-items: center;
+      justify-content: center;
       border-style: dotted none none ;
       background-color: #BCE0FD;
-      border-width: 6px;
-      display: inline-block;
-      position: relative;
+      border-width: 10px;
       width: 8%;
+        }
         }
   .name {
     display: flex;
