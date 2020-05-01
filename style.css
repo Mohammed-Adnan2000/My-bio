@@ -16,6 +16,8 @@ hr{
       border-style: dotted none none ;
       background-color: #BCE0FD;
       border-width: 6px;
+      display: inline-block;
+      position: relative;
       width: 8%;
         }
   .name {
