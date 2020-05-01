@@ -38,7 +38,7 @@ hr{
     display: block;
     background-color: #BCE0FD;
     position: absolute;
-    left: 1000px;
+    left: 700px;
     top: 50px;
   }
 
@@ -46,7 +46,7 @@ hr{
     display: flex;
     background-color: #BCE0FD;
     position:absolute;
-    left: 300px;
+    left: 100px;
   }
 
   .mountain {
