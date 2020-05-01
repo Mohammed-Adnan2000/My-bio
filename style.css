@@ -45,7 +45,7 @@ hr{
   .bottom-cloud {
     display: flex;
     background-color: #BCE0FD;
-    position:absolute;
+    position:relative;
     left: 70px;
   }
 
