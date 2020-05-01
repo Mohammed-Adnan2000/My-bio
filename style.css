@@ -12,7 +12,7 @@ body {
   background-color: #BCE0FD;
 }
 hr{
-      border-color: #FEC93F;
+      border-color: #FFC107;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -162,9 +162,6 @@ hr{
     color:#142850;
     font-family: Georgia,monospace;
   }
-.line5{
-  display: inline-block;
-  position: relative;
 }
   .instaLogo {
     display: inline-block;
