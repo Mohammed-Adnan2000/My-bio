@@ -68,10 +68,7 @@ hr{
     background-color: #BCE0FD;
 
   }
-  .line1{
-    display: inline-block;
-    position: relative;
-  }
+  
   .profilePic {
 
     display: flex;
@@ -97,10 +94,7 @@ hr{
     color:#FF5722;
     font-family: Courier New,serif;
   }
-.line2{
-  display: inline-block;
-  position: relative;
-}
+
   .Qlogo {
     display: flex;
     align-items: center;
@@ -123,10 +117,7 @@ hr{
     color:#142850;
     background-color: #BCE0FD;
   }
-.line3{
-  display: inline-block;
-  position: relative;
-}
+
 .Sicon{
   display: flex;
   align-items: center;
@@ -148,11 +139,7 @@ hr{
   color:#142850;
   background-color: #BCE0FD;
 }
-.line4{
-  display: inline-block;
-  position: relative;
 
-}
   .CLogo {
     display: flex;
     align-items: center;
@@ -194,11 +181,6 @@ hr{
     background-color: #BCE0FD;
     left: 35px;
   }
-.line6{
-  display: inline-block;
-  position: relative;
-}
-
 
   .last-word {
     display: flex;
