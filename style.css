@@ -5,6 +5,12 @@ body {
   padding-top: 10%;
 
 }
+.profile{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #BCE0FD;
+}
 hr{
       border-color: black;
       border-style: dotted none none ;
@@ -29,7 +35,7 @@ hr{
     align-items: center;
     justify-content: center;
     background-color: #BCE0FD;
-    color: #0d47a1;
+    color: #FF5722;
     font-family: "Courier New", Courier, monospace;
     position: relative;
   }
@@ -38,7 +44,7 @@ hr{
     display: block;
     background-color: #BCE0FD;
     position: absolute;
-    left: 500px;
+    left: 1000px;
     top: 50px;
   }
 
@@ -74,6 +80,8 @@ hr{
     align-items: center;
     justify-content: center;
     background-color: #BCE0FD;
+    color: #0d47a1;
+    font-family: Courier New,sans-serif;
   }
 
   .about {
@@ -81,6 +89,8 @@ hr{
     align-items: center;
     justify-content: center;
     background-color: #BCE0FD;
+    color:#FF5722;
+    font-family: Courier New,serif;
   }
 .line2{
   display: inline-block;
@@ -98,16 +108,40 @@ hr{
     align-items: center;
     justify-content: center;
     background-color: #BCE0FD;
+    color:#0d47a1;
   }
 
   .Qtable {
     display: inline-block;
+    font-family: Georgia,monospace;
     position: relative;
+    color:#142850;
     background-color: #BCE0FD;
   }
 .line3{
   display: inline-block;
   position: relative;
+}
+.Sicon{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #BCE0FD;
+}
+.skill{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #BCE0FD;
+  color:#0d47a1;
+
+}
+.Stable{
+  display: inline-block;
+  font-family: Georgia,monospace;
+  position: relative;
+  color:#142850;
+  background-color: #BCE0FD;
 }
 .line4{
   display: inline-block;
@@ -127,12 +161,16 @@ hr{
     align-items: center;
     justify-content: center;
     background-color: #BCE0FD;
+    color:#0d47a1;
+    font-family: Georgia,monospace;
   }
 
   .CTable {
     display: inline-block;
     position: relative;
     background-color: #BCE0FD;
+    color:#142850;
+    font-family: Georgia,monospace;
   }
 .line5{
   display: inline-block;
@@ -162,4 +200,6 @@ hr{
     align-items: center;
     justify-content: center;
     background-color: #BCE0FD;
+    color: #FF5722;
+    font-family: Georgia,monospace;
   }
